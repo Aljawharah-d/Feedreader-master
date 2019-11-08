@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-* [Project Overview](#Project Overview)
-* [Why this Project?](#Why this Project?)
-* [What will I learn?](#What will I learn?)
-* [How will this help my career?](#How will this help my career?)
-* [Development Strategy](#Development Strategy)
+* [Project Overview](#Project-Overview)
+* [Why this Project?](#Why-this-Project?)
+* [What will I learn?](#What-will-I-learn?)
+* [How will this help my career?](#How-will-this-help-my-career?)
+* [Development Strategy](#Development-Strategy)
 * [Contributing?](#Contributing)
 
 
